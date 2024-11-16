@@ -9,7 +9,7 @@ I'm a **CSE student specializing in Data Science & AI**, passionate about creati
 - 🎓 Pursuing BTech in CSE (Data Science & AI)  
 - 🌐 Ex-SEO Lead | Ex-Social Media Manager  
 - 💻 Skills: Python, R, GitHub, Machine Learning, Big Data  
-- 📊 Interests: Data Analysis, Cyber Forensics, and Program Management  
+- 📊 Interests: Data Analysis and Program Management  
 
 ---
 
